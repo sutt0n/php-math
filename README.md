@@ -1,4 +1,4 @@
-# Math Tree
+# Algebraic Parse Tree
 - Math class for solving algebraic equations via binary/parse tree
 
 ## Description
