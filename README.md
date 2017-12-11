@@ -11,7 +11,10 @@ Originally, I was going to put this in a gist, but I'm not going to haphazardly 
 ```php
 $math = new \math(
 	$expression,		// Ex: (%x + 5(%y) / 4) * %z
-	$variables,			// ["x" => 5, "y" => 2, "z" => 3]
-	"%"					// Variable pre-indicator
+	$variables,		// ["x" => 5, "y" => 2, "z" => 3]
+	"%"			// Variable pre-indicator
 );
 ```
+
+- *Has this been tested?*
+- Not yet.
